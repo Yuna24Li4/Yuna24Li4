@@ -1,4 +1,4 @@
--  Hi, I’m Yuna24Li4
+-  Hi, I’m Yuna
 -  I’m currently interested in Games, Cooking, Cars and Computers!
 -  I’m currently learning HTML, JS and maybe Python later.
 -  I’m looking to collaborate on nothing at the moment.
