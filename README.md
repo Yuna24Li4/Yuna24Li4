@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Shoutout to, Amistech Games https://www.amistech.com/msc/ and the Dodge SRT Team!
+Shoutout to, Amistech Games https://www.amistech.com/msc/ and the Dodge SRT-4 Team!
